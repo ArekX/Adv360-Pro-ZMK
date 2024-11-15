@@ -80,11 +80,11 @@
 
         layer_NIS {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans  &kp LA(LS(NUMBER_1))  &kp LA(LS(NUMBER_2)  &kp LA(LS(NUMBER_3))  &kp LA(LS(NUMBER_4))  &kp LA(LS(NUMBER_5))            &trans                                                  &trans  &kp LA(LS(N6))  &kp LA(LS(N7))  &kp LA(LS(N8))  &kp LA(LS(N9))  &kp LA(LS(N0))  &trans
+ &trans         &kp LA(LS(Q))        &kp LA(LS(W))         &kp LA(LS(E))         &kp LA(LS(R))         &kp LA(LS(T))            &trans                                                  &trans   &kp LA(LS(Y))   &kp LA(LS(U))   &kp LA(LS(I))   &kp LA(LS(O))   &kp LA(LS(P))  &trans
+ &trans         &kp LA(LS(A))        &kp LA(LS(S))         &kp LA(LS(D))         &kp LA(LS(F))         &kp LA(LS(G))            &trans  &trans  &trans                  &trans  &trans  &trans   &kp LA(LS(H))   &kp LA(LS(J))   &kp LA(LS(K))   &kp LA(LS(L))          &trans  &trans
+ &trans         &kp LA(LS(Z))        &kp LA(LS(X))         &kp LA(LS(C))         &kp LA(LS(V))         &kp LA(LS(B))                            &trans                  &trans                   &kp LA(LS(N))   &kp LA(LS(M))          &trans          &trans          &trans  &trans
+ &trans                &trans               &trans                &trans                &trans                                  &trans  &trans  &trans                  &trans  &trans  &trans                          &trans          &trans          &trans          &trans  &trans
             >;
         };
 
