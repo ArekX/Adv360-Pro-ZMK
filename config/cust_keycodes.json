@@ -916,5 +916,39 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"OUT_BLE"
+		],
+		"description": "OUT_BLE",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"OUT_USB"
+		],
+		"description": "OUT_USB",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]
