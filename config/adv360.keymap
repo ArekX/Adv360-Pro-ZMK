@@ -75,7 +75,7 @@
 &trans            &kp LS(LA(Q))         &kp LS(LA(W))         &kp LS(LA(E))         &kp LS(LA(R))         &kp LS(LA(T))         &trans                                      &trans  &kp LS(LA(Y))         &kp LS(LA(U))         &kp LS(LA(I))         &kp LS(LA(O))         &kp LS(LA(P))          &trans
 &trans            &kp LS(LA(A))         &kp LS(LA(S))         &kp LS(LA(D))         &kp LS(LA(F))         &kp LS(LA(G))         &trans  &trans  &trans      &trans  &trans  &trans  &kp LS(LA(H))         &kp LS(LA(J))         &kp LS(LA(K))         &kp LS(LA(L))         &kp LS(LA(SEMICOLON))  &trans
 &trans            &kp LS(LA(Z))         &kp LS(LA(X))         &kp LS(LA(C))         &kp LS(LA(V))         &kp LS(LA(B))                         &trans      &trans                  &kp LS(LA(N))         &kp LS(LA(M))         &kp LS(LA(COMMA))     &kp LS(LA(PERIOD))    &kp LS(LA(SLASH))      &trans
-&trans            &trans                &trans                &trans                &trans                                      &trans  &trans  &trans      &trans  &trans  &trans                        &trans                &trans                &trans                &trans                 &trans
+&trans            &trans                &trans                &kp C_AC_BACK         &kp C_AC_FORWARD                            &trans  &trans  &trans      &trans  &trans  &trans                        &trans                &trans                &trans                &trans                 &trans
             >;
         };
     };
